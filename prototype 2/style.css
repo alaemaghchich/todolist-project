@@ -1,0 +1,24 @@
+div{
+ display: flex;
+ background-color: rgba(0, 157, 255, 0.594);
+ padding: 20px;
+ width: 600px;
+ border-radius: 10px;
+ font-size: 30px;
+}
+#counter{
+background: linear-gradient(to left, #2b2884, #000000);
+height: 40px;
+padding: 20px;
+border-radius: 100px;
+color: azure;
+}
+h1{
+ color: black;
+}
+.list input[type="checkbox"] { 
+  width: 50px;
+  height: 50px;
+  margin-right: 15px;
+  accent-color: #ff1500; 
+}
