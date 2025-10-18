@@ -82,3 +82,9 @@ font-size: 15px;
  cursor: pointer;  
  background: url("./assist/unchecked-15.png") right/cover;
 }
+.todolist ul li.checked::before{
+background: url(img cheked✅)center/cover;
+}
+.todolist ul li.checked{
+text-decoration: line-througr;
+}
